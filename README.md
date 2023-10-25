@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shravani Mane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/449007/screenshots/9006351/media/7fae26bea19390a7cea7cfc104aaac87.jpg?resize=400x0"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravaniiieee&label=Profile%20views&color=0e75b6&style=flat" alt="shravaniiieee" /> </p>
 
