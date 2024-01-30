@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **shravanim544@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cpO75Q01bv-BuMPfzTVcC-EadHYPhsp6/view?usp=drivesdk](https://drive.google.com/file/d/1cpO75Q01bv-BuMPfzTVcC-EadHYPhsp6/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
